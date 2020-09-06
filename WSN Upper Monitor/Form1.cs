@@ -329,7 +329,7 @@ namespace WSN_Upper_Monitor
 
             //}
 
-            textBox1.SelectionStart = textBox1.Text.Length;
+            textBox1.SelectionStart = textBox1.Text.Length;  //窗口滚动
             textBox1.ScrollToCaret();
 
 

@@ -8,19 +8,6 @@ C:\E盘(文件)\MyC\WSN Upper Monitor\WSN Upper Monitor\bin\Debug\WSN Upper Moni
 C:\E盘(文件)\MyC\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.exe
 C:\E盘(文件)\MyC\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.pdb
 C:\E盘(文件)\MyC\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN_Upper_Monitor.TimingMessageBox.resources
-C:\Users\BBoy\Desktop\无线传感器网络技术\课程报告-无线传感器\31-严汝宁\WSN Upper Monitor\WSN Upper Monitor\bin\Debug\WSN Upper Monitor.exe.config
-C:\Users\BBoy\Desktop\无线传感器网络技术\课程报告-无线传感器\31-严汝宁\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.exe
-C:\Users\BBoy\Desktop\无线传感器网络技术\课程报告-无线传感器\31-严汝宁\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.pdb
-C:\E盘(文件)\Study\2019大三上\无线传感器网络技术\课程报告-无线传感器\31-严汝宁\WSN Upper Monitor\WSN Upper Monitor\bin\Debug\WSN Upper Monitor.exe.config
-C:\E盘(文件)\Study\2019大三上\无线传感器网络技术\课程报告-无线传感器\31-严汝宁\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.exe
-C:\E盘(文件)\Study\2019大三上\无线传感器网络技术\课程报告-无线传感器\31-严汝宁\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.pdb
-C:\Users\Yimning\Desktop\WSN Upper Monitor\WSN Upper Monitor\bin\Debug\WSN Upper Monitor.exe.config
-C:\Users\Yimning\Desktop\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.exe
-C:\Users\Yimning\Desktop\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.pdb
-C:\Users\Yimning\Desktop\WSN Upper Monitor\WSN Upper Monitor\bin\Debug\WSN Upper Monitor.exe
-C:\Users\Yimning\Desktop\WSN Upper Monitor\WSN Upper Monitor\bin\Debug\WSN Upper Monitor.pdb
-C:\Users\Yimning\Desktop\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.csprojResolveAssemblyReference.cache
-C:\Users\Yimning\Desktop\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN_Upper_Monitor.Form1.resources
-C:\Users\Yimning\Desktop\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN_Upper_Monitor.Properties.Resources.resources
-C:\Users\Yimning\Desktop\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN_Upper_Monitor.TimingMessageBox.resources
-C:\Users\Yimning\Desktop\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.csproj.GenerateResource.Cache
+C:\E盘(文件)\学习资料\杂七杂八\单片机原理与应用课程设计2\201700210131-严汝宁\WSN Upper Monitor\WSN Upper Monitor\bin\Debug\WSN Upper Monitor.exe.config
+C:\E盘(文件)\学习资料\杂七杂八\单片机原理与应用课程设计2\201700210131-严汝宁\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.exe
+C:\E盘(文件)\学习资料\杂七杂八\单片机原理与应用课程设计2\201700210131-严汝宁\WSN Upper Monitor\WSN Upper Monitor\obj\Debug\WSN Upper Monitor.pdb
